@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **reza.ghahremani@studenti.unimi.it**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/be1fb8c410a382fe/EVKYmyBFSWRElk8logzw4qkBPaqYYbcjmoS95ZIt597XrA?e=sCQwiG](https://1drv.ms/b/c/be1fb8c410a382fe/EVKYmyBFSWRElk8logzw4qkBPaqYYbcjmoS95ZIt597XrA?e=sCQwiG)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reza-ghahremani-933427263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-ghahremani-933427263" height="30" width="40" /></a>
